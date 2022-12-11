@@ -3,7 +3,7 @@ x-trestle-global:
   profile-title: ROKS OCP4 Tailored Profile
 ---
 
-# CIS-1.1.9 - \[\] 1.1.9 Ensure that the Container Network Interface file permissions are set to 644 or more restrictive
+# CIS-1.1.9 - \[\] 1.1.9 Ensure that the Container Network Interface file permissions are set to 644 or more restrictive 
 
 ## Control Statement
 
