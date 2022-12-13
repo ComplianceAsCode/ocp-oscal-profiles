@@ -22,6 +22,26 @@ jobs:
       run: source scripts/automation/release.sh
     - name: Push the changes
       run: bash scripts/automation/push.sh
+  downstream-repo-update:
+    name: Update downstream repositories
+    runs-on: ubuntu-latest
+    needs: release
+    steps:
+    - name: Clone branch
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Clone downstream repo
+      uses: actions/checkout@v2
+      with:
+        repository: ComplianceAsCode/ocp-oscal-cd
+        path: './ocp-oscal-cd'
+        token: ${{ secrets.GIT_TOKEN }}
+        fetch-depth: 0
+    - name: Update component definitions
+      run: bash scripts/automation/update_cd.sh
+      env:
+        GH_TOKEN: ${{ secrets.GIT_TOKEN }}
   merge-main-to-develop:
     name: Merge main to develop
     runs-on: ubuntu-latest
