@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2022-12-13)
+### Fix
+* Add auto pr creation ([`4dc15a6`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/4dc15a62b05fb33e8adaa40e8c5fd88525ac7edc))
+
 ## v0.1.0 (2022-12-11)
 ### Feature
 * Switch to github actions ([`a675270`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/a6752708eb3afecc6d5a86cf6e1607fd99144cbb))
