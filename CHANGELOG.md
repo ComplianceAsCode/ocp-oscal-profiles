@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.3 (2022-12-13)
+### Fix
+* Updated codeowners ([#7](https://github.com/ComplianceAsCode/ocp-oscal-profiles/issues/7)) ([`b33288e`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/b33288e515e01a7be17b8ed14e093127081eac1c))
+
 ## v0.1.2 (2022-12-13)
 ### Fix
 * Add token ([`a9717bb`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/a9717bb112b060b7db6fb193efb1dab64ddc219f))
