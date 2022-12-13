@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2022-12-13)
+### Fix
+* Add token ([`a9717bb`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/a9717bb112b060b7db6fb193efb1dab64ddc219f))
+
 ## v0.1.0 (2022-12-11)
 ### Feature
 * Switch to github actions ([`a675270`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/a6752708eb3afecc6d5a86cf6e1607fd99144cbb))
