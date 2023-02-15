@@ -42,7 +42,7 @@ fi
 
 
 if [[ $md_changed = true ]]; then
-    echo "Md file(s) were changed, regenerating profiles..."
+    echo "Md file(s) were changed, assembling profiles..."
     ./scripts/automation/assemble_profiles.sh
 fi
 
