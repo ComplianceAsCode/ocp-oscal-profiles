@@ -2,6 +2,14 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2023-02-15)
+### Feature
+* Updated profiles ([#17](https://github.com/ComplianceAsCode/ocp-oscal-profiles/issues/17)) ([`a9a09aa`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/a9a09aa93b6de004d85b22e8ce4f045d51ac93c0))
+
+### Fix
+* Update script message ([#18](https://github.com/ComplianceAsCode/ocp-oscal-profiles/issues/18)) ([`20b97c6`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/20b97c6f5f532f273a679b92a369f8269a0937e0))
+* Fix downstream update workflow ([`8935229`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/89352295568aa8b507841158f15fd17bb98a9929))
+
 ## v0.1.3 (2022-12-13)
 ### Fix
 * Updated codeowners ([#7](https://github.com/ComplianceAsCode/ocp-oscal-profiles/issues/7)) ([`b33288e`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/b33288e515e01a7be17b8ed14e093127081eac1c))
