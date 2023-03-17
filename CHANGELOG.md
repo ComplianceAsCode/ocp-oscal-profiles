@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2023-03-17)
+### Feature
+* Add push to the ssp repository ([`40122df`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/40122dfa1effe4670ea7dc1b2fb92f755da34a37))
+
 ## v0.2.0 (2023-02-15)
 ### Feature
 * Updated profiles ([#17](https://github.com/ComplianceAsCode/ocp-oscal-profiles/issues/17)) ([`a9a09aa`](https://github.com/ComplianceAsCode/ocp-oscal-profiles/commit/a9a09aa93b6de004d85b22e8ce4f045d51ac93c0))
